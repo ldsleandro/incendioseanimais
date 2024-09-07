@@ -125,12 +125,12 @@ let dados = [
     },
     {
         nomeCientifico: "Crax blumenbachii",
-        nomePopular: "Mutum-de-ouroprete",
+        nomePopular: "Mutum-do-sudeste",
         caracteristicas: "Ave de grande porte, com plumagem negra brilhante e topete em formato de coroa. Endêmico da Mata Atlântica. Mede cerca de 80 cm de comprimento. Dieta: Frutas, sementes, invertebrados. Comportamento: Solitário ou em pares, principalmente visto no solo.",
         regiao: "Mata Atlântica",
         emRiscoDeExtincao: true,
         causasAmeaca: "Desmatamento, caça, captura para o tráfico de animais",
-        linkWikipedia: "https://pt.wikipedia.org/wiki/Mutum-de-ouroprete",
+        linkWikipedia: "https://pt.wikipedia.org/wiki/Mutum-do-sudeste",
         tags: "aves ave mutum pássaro pássaros",
     },
     {
