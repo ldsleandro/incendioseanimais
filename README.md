@@ -38,7 +38,7 @@ Os dados utilizados nessa aplicação são baseados em pesquisas e informações
 
 **Vamos juntos proteger a fauna brasileira!**
 
-**projeto construído durante Imersão DeV_ Alura com Goolge Gemini**
+**Projeto construído durante Imersão DeV_ Alura com Goolge Gemini**
 
 #animaisbrasileiros #conservação #programação #webdev
 
